@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffLibrary", "HuffLibrary\HuffLibrary.csproj", "{2DBB72E6-A4DE-47E6-8FF0-07509DC477FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffArc", "HuffArc\HuffArc.csproj", "{FC13C654-E76F-4ABA-8EDF-9352DFA0F395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GVisHuff", "GVisHuff\GVisHuff.csproj", "{3FCB1816-7805-4950-B65A-0D3FA4E3E08B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBB72E6-A4DE-47E6-8FF0-07509DC477FA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2DBB72E6-A4DE-47E6-8FF0-07509DC477FA}.Debug|x86.Build.0 = Debug|Any CPU
+		{2DBB72E6-A4DE-47E6-8FF0-07509DC477FA}.Release|x86.ActiveCfg = Release|Any CPU
+		{2DBB72E6-A4DE-47E6-8FF0-07509DC477FA}.Release|x86.Build.0 = Release|Any CPU
+		{3FCB1816-7805-4950-B65A-0D3FA4E3E08B}.Debug|x86.ActiveCfg = Debug|x86
+		{3FCB1816-7805-4950-B65A-0D3FA4E3E08B}.Debug|x86.Build.0 = Debug|x86
+		{3FCB1816-7805-4950-B65A-0D3FA4E3E08B}.Release|x86.ActiveCfg = Release|x86
+		{3FCB1816-7805-4950-B65A-0D3FA4E3E08B}.Release|x86.Build.0 = Release|x86
+		{FC13C654-E76F-4ABA-8EDF-9352DFA0F395}.Debug|x86.ActiveCfg = Debug|x86
+		{FC13C654-E76F-4ABA-8EDF-9352DFA0F395}.Debug|x86.Build.0 = Debug|x86
+		{FC13C654-E76F-4ABA-8EDF-9352DFA0F395}.Release|x86.ActiveCfg = Release|x86
+		{FC13C654-E76F-4ABA-8EDF-9352DFA0F395}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GVisHuff\GVisHuff.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 120
+		$2.TabWidth = 4
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/plain
+		$2.scope = text/plain
+		$0.TextStylePolicy = $3
+		$3.inheritsSet = null
+		$3.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $4
+		$4.IndentSwitchBody = True
+		$4.NamespaceBraceStyle = EndOfLine
+		$4.ClassBraceStyle = EndOfLine
+		$4.InterfaceBraceStyle = EndOfLine
+		$4.StructBraceStyle = EndOfLine
+		$4.EnumBraceStyle = EndOfLine
+		$4.MethodBraceStyle = EndOfLine
+		$4.ConstructorBraceStyle = EndOfLine
+		$4.DestructorBraceStyle = EndOfLine
+		$4.PlaceElseOnNewLine = True
+		$4.PlaceElseIfOnNewLine = True
+		$4.PlaceCatchOnNewLine = True
+		$4.PlaceFinallyOnNewLine = True
+		$4.inheritsSet = Mono
+		$4.inheritsScope = text/x-csharp
+		$4.scope = text/x-csharp
+		$0.StandardHeader = $5
+		$5.inheritsSet = GPLv2License
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,705 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-12 21:44+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gtk-gui/gui.stetic:1
+msgid "1.0"
+msgstr ""
+
+#: gtk-gui/gui.stetic:1
+msgid "utf-8"
+msgstr ""
+
+#: gtk-gui/gui.stetic:8
+msgid ""
+"glade-sharp, Version=2.12.0.0, Culture=neutral, "
+"PublicKeyToken=35e10195dab3c99f"
+msgstr ""
+
+#: gtk-gui/gui.stetic:9
+msgid "../bin/Debug/GVisHuff.exe"
+msgstr ""
+
+#: gtk-gui/gui.stetic:9
+msgid "true"
+msgstr ""
+
+#: gtk-gui/gui.stetic:11
+msgid "Gtk.Window"
+msgstr ""
+
+#: gtk-gui/gui.stetic:11
+msgid "MainWindow"
+msgstr ""
+
+#: gtk-gui/gui.stetic:11
+msgid "697 538"
+msgstr ""
+
+#: gtk-gui/gui.stetic:12
+msgid "Default"
+msgstr ""
+
+#: gtk-gui/gui.stetic:13 gtk-gui/gui.stetic:134
+msgid "FileAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:14 gtk-gui/gui.stetic:19 gtk-gui/gui.stetic:26
+#: gtk-gui/gui.stetic:33 gtk-gui/gui.stetic:39 gtk-gui/gui.stetic:46
+#: gtk-gui/gui.stetic:53 gtk-gui/gui.stetic:58 gtk-gui/gui.stetic:63
+#: gtk-gui/gui.stetic:68 gtk-gui/gui.stetic:74 gtk-gui/gui.stetic:84
+#: gtk-gui/gui.stetic:94 gtk-gui/gui.stetic:104 gtk-gui/gui.stetic:114
+#: gtk-gui/gui.stetic:191 gtk-gui/gui.stetic:570
+msgid "Type"
+msgstr ""
+
+#: gtk-gui/gui.stetic:15 gtk-gui/gui.stetic:20 gtk-gui/gui.stetic:27
+#: gtk-gui/gui.stetic:34 gtk-gui/gui.stetic:40 gtk-gui/gui.stetic:47
+#: gtk-gui/gui.stetic:54 gtk-gui/gui.stetic:59 gtk-gui/gui.stetic:64
+#: gtk-gui/gui.stetic:69 gtk-gui/gui.stetic:75 gtk-gui/gui.stetic:85
+#: gtk-gui/gui.stetic:95 gtk-gui/gui.stetic:105 gtk-gui/gui.stetic:115
+#: gtk-gui/gui.stetic:193
+msgid "Label"
+msgstr ""
+
+#: gtk-gui/gui.stetic:15 gtk-gui/gui.stetic:16 gtk-gui/gui.stetic:20
+#: gtk-gui/gui.stetic:21 gtk-gui/gui.stetic:27 gtk-gui/gui.stetic:28
+#: gtk-gui/gui.stetic:34 gtk-gui/gui.stetic:35 gtk-gui/gui.stetic:40
+#: gtk-gui/gui.stetic:41 gtk-gui/gui.stetic:47 gtk-gui/gui.stetic:48
+#: gtk-gui/gui.stetic:54 gtk-gui/gui.stetic:55 gtk-gui/gui.stetic:59
+#: gtk-gui/gui.stetic:60 gtk-gui/gui.stetic:64 gtk-gui/gui.stetic:65
+#: gtk-gui/gui.stetic:69 gtk-gui/gui.stetic:70 gtk-gui/gui.stetic:75
+#: gtk-gui/gui.stetic:76 gtk-gui/gui.stetic:85 gtk-gui/gui.stetic:86
+#: gtk-gui/gui.stetic:95 gtk-gui/gui.stetic:96 gtk-gui/gui.stetic:105
+#: gtk-gui/gui.stetic:106 gtk-gui/gui.stetic:115 gtk-gui/gui.stetic:116
+#: gtk-gui/gui.stetic:123 gtk-gui/gui.stetic:193 gtk-gui/gui.stetic:252
+#: gtk-gui/gui.stetic:323 gtk-gui/gui.stetic:394 gtk-gui/gui.stetic:407
+#: gtk-gui/gui.stetic:433 gtk-gui/gui.stetic:449 gtk-gui/gui.stetic:462
+#: gtk-gui/gui.stetic:475 gtk-gui/gui.stetic:500 gtk-gui/gui.stetic:513
+#: gtk-gui/gui.stetic:531
+msgid "yes"
+msgstr ""
+
+#: gtk-gui/gui.stetic:16 gtk-gui/gui.stetic:21 gtk-gui/gui.stetic:28
+#: gtk-gui/gui.stetic:35 gtk-gui/gui.stetic:41 gtk-gui/gui.stetic:48
+#: gtk-gui/gui.stetic:55 gtk-gui/gui.stetic:60 gtk-gui/gui.stetic:65
+#: gtk-gui/gui.stetic:70 gtk-gui/gui.stetic:76 gtk-gui/gui.stetic:86
+#: gtk-gui/gui.stetic:96 gtk-gui/gui.stetic:106 gtk-gui/gui.stetic:116
+msgid "ShortLabel"
+msgstr ""
+
+#: gtk-gui/gui.stetic:18 gtk-gui/gui.stetic:135
+msgid "redoAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:22 gtk-gui/gui.stetic:29 gtk-gui/gui.stetic:36
+#: gtk-gui/gui.stetic:42 gtk-gui/gui.stetic:49 gtk-gui/gui.stetic:71
+#: gtk-gui/gui.stetic:571
+msgid "StockId"
+msgstr ""
+
+#: gtk-gui/gui.stetic:23 gtk-gui/gui.stetic:30 gtk-gui/gui.stetic:43
+#: gtk-gui/gui.stetic:50 gtk-gui/gui.stetic:81 gtk-gui/gui.stetic:91
+#: gtk-gui/gui.stetic:101 gtk-gui/gui.stetic:111
+msgid "Activated"
+msgstr ""
+
+#: gtk-gui/gui.stetic:23
+msgid "OnRedoActionActivated"
+msgstr ""
+
+#: gtk-gui/gui.stetic:25 gtk-gui/gui.stetic:138
+msgid "quitAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:30
+msgid "OnQuitActionActivated"
+msgstr ""
+
+#: gtk-gui/gui.stetic:32 gtk-gui/gui.stetic:149
+msgid "HelpAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:38 gtk-gui/gui.stetic:136
+msgid "saveAsAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:43
+msgid "OnSaveAsActionActivated"
+msgstr ""
+
+#: gtk-gui/gui.stetic:45 gtk-gui/gui.stetic:150
+msgid "helpAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:50
+msgid "OnAboutActionActivated"
+msgstr ""
+
+#: gtk-gui/gui.stetic:52 gtk-gui/gui.stetic:140
+msgid "OptionsAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:57
+msgid "GraphicsAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:62
+msgid "AnimationDelayAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:67 gtk-gui/gui.stetic:141
+msgid "mediaPlayAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:73 gtk-gui/gui.stetic:144
+msgid "d500MsAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:77 gtk-gui/gui.stetic:87 gtk-gui/gui.stetic:97
+#: gtk-gui/gui.stetic:107 gtk-gui/gui.stetic:117
+msgid "DrawAsRadio"
+msgstr ""
+
+#: gtk-gui/gui.stetic:78 gtk-gui/gui.stetic:88 gtk-gui/gui.stetic:98
+#: gtk-gui/gui.stetic:108 gtk-gui/gui.stetic:118
+msgid "Active"
+msgstr ""
+
+#: gtk-gui/gui.stetic:79 gtk-gui/gui.stetic:89 gtk-gui/gui.stetic:99
+#: gtk-gui/gui.stetic:109
+msgid "Value"
+msgstr ""
+
+#: gtk-gui/gui.stetic:80 gtk-gui/gui.stetic:90 gtk-gui/gui.stetic:100
+#: gtk-gui/gui.stetic:110
+msgid "Group"
+msgstr ""
+
+#: gtk-gui/gui.stetic:81
+msgid "On500MsActionActivated"
+msgstr ""
+
+#: gtk-gui/gui.stetic:83 gtk-gui/gui.stetic:145
+msgid "d1000MsAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:91
+msgid "On1000MsActionActivated"
+msgstr ""
+
+#: gtk-gui/gui.stetic:93 gtk-gui/gui.stetic:143
+msgid "d250MsAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:101
+msgid "On250MsActionActivated"
+msgstr ""
+
+#: gtk-gui/gui.stetic:103 gtk-gui/gui.stetic:142
+msgid "d100MsAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:111
+msgid "On100MsActionActivated"
+msgstr ""
+
+#: gtk-gui/gui.stetic:113 gtk-gui/gui.stetic:147
+msgid "DrawGridAction"
+msgstr ""
+
+#: gtk-gui/gui.stetic:119
+msgid "Toggled"
+msgstr ""
+
+#: gtk-gui/gui.stetic:119
+msgid "OnDrawGridActionToggled"
+msgstr ""
+
+#: gtk-gui/gui.stetic:122 gtk-gui/gui.stetic:128 gtk-gui/gui.stetic:132
+#: gtk-gui/gui.stetic:163 gtk-gui/gui.stetic:168 gtk-gui/gui.stetic:172
+#: gtk-gui/gui.stetic:176 gtk-gui/gui.stetic:189 gtk-gui/gui.stetic:214
+#: gtk-gui/gui.stetic:219 gtk-gui/gui.stetic:223 gtk-gui/gui.stetic:243
+#: gtk-gui/gui.stetic:247 gtk-gui/gui.stetic:251 gtk-gui/gui.stetic:263
+#: gtk-gui/gui.stetic:283 gtk-gui/gui.stetic:288 gtk-gui/gui.stetic:292
+#: gtk-gui/gui.stetic:318 gtk-gui/gui.stetic:322 gtk-gui/gui.stetic:334
+#: gtk-gui/gui.stetic:356 gtk-gui/gui.stetic:364 gtk-gui/gui.stetic:368
+#: gtk-gui/gui.stetic:372 gtk-gui/gui.stetic:384 gtk-gui/gui.stetic:389
+#: gtk-gui/gui.stetic:393 gtk-gui/gui.stetic:406 gtk-gui/gui.stetic:421
+#: gtk-gui/gui.stetic:432 gtk-gui/gui.stetic:448 gtk-gui/gui.stetic:457
+#: gtk-gui/gui.stetic:461 gtk-gui/gui.stetic:474 gtk-gui/gui.stetic:488
+#: gtk-gui/gui.stetic:499 gtk-gui/gui.stetic:512 gtk-gui/gui.stetic:530
+#: gtk-gui/gui.stetic:559 gtk-gui/gui.stetic:566
+msgid "MemberName"
+msgstr ""
+
+#: gtk-gui/gui.stetic:123
+msgid "Title"
+msgstr ""
+
+#: gtk-gui/gui.stetic:124 gtk-gui/gui.stetic:357
+msgid "WindowPosition"
+msgstr ""
+
+#: gtk-gui/gui.stetic:125
+msgid "DeleteEvent"
+msgstr ""
+
+#: gtk-gui/gui.stetic:125
+msgid "OnDeleteEvent"
+msgstr ""
+
+#: gtk-gui/gui.stetic:127 gtk-gui/gui.stetic:167 gtk-gui/gui.stetic:242
+#: gtk-gui/gui.stetic:363 gtk-gui/gui.stetic:367 gtk-gui/gui.stetic:388
+#: gtk-gui/gui.stetic:456
+msgid "Gtk.VBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:127
+msgid "MainLayout"
+msgstr ""
+
+#: gtk-gui/gui.stetic:129 gtk-gui/gui.stetic:165 gtk-gui/gui.stetic:169
+#: gtk-gui/gui.stetic:173 gtk-gui/gui.stetic:244 gtk-gui/gui.stetic:248
+#: gtk-gui/gui.stetic:319 gtk-gui/gui.stetic:369 gtk-gui/gui.stetic:390
+#: gtk-gui/gui.stetic:458 gtk-gui/gui.stetic:560
+msgid "Spacing"
+msgstr ""
+
+#: gtk-gui/gui.stetic:131
+msgid "Gtk.MenuBar"
+msgstr ""
+
+#: gtk-gui/gui.stetic:131 gtk-gui/gui.stetic:133
+msgid "MainMenu"
+msgstr ""
+
+#: gtk-gui/gui.stetic:133
+msgid "Menubar"
+msgstr ""
+
+#: gtk-gui/gui.stetic:134 gtk-gui/gui.stetic:140 gtk-gui/gui.stetic:141
+#: gtk-gui/gui.stetic:149
+msgid "Menu"
+msgstr ""
+
+#: gtk-gui/gui.stetic:135 gtk-gui/gui.stetic:136 gtk-gui/gui.stetic:138
+#: gtk-gui/gui.stetic:142 gtk-gui/gui.stetic:143 gtk-gui/gui.stetic:144
+#: gtk-gui/gui.stetic:145 gtk-gui/gui.stetic:147 gtk-gui/gui.stetic:150
+msgid "Menuitem"
+msgstr ""
+
+#: gtk-gui/gui.stetic:137
+msgid "Separator"
+msgstr ""
+
+#: gtk-gui/gui.stetic:155 gtk-gui/gui.stetic:183 gtk-gui/gui.stetic:198
+#: gtk-gui/gui.stetic:206 gtk-gui/gui.stetic:231 gtk-gui/gui.stetic:237
+#: gtk-gui/gui.stetic:255 gtk-gui/gui.stetic:269 gtk-gui/gui.stetic:275
+#: gtk-gui/gui.stetic:300 gtk-gui/gui.stetic:306 gtk-gui/gui.stetic:312
+#: gtk-gui/gui.stetic:326 gtk-gui/gui.stetic:340 gtk-gui/gui.stetic:346
+#: gtk-gui/gui.stetic:376 gtk-gui/gui.stetic:398 gtk-gui/gui.stetic:413
+#: gtk-gui/gui.stetic:424 gtk-gui/gui.stetic:438 gtk-gui/gui.stetic:466
+#: gtk-gui/gui.stetic:480 gtk-gui/gui.stetic:491 gtk-gui/gui.stetic:504
+#: gtk-gui/gui.stetic:517 gtk-gui/gui.stetic:525 gtk-gui/gui.stetic:541
+#: gtk-gui/gui.stetic:549
+msgid "Position"
+msgstr ""
+
+#: gtk-gui/gui.stetic:156 gtk-gui/gui.stetic:184 gtk-gui/gui.stetic:199
+#: gtk-gui/gui.stetic:207 gtk-gui/gui.stetic:232 gtk-gui/gui.stetic:238
+#: gtk-gui/gui.stetic:256 gtk-gui/gui.stetic:270 gtk-gui/gui.stetic:276
+#: gtk-gui/gui.stetic:301 gtk-gui/gui.stetic:307 gtk-gui/gui.stetic:313
+#: gtk-gui/gui.stetic:327 gtk-gui/gui.stetic:341 gtk-gui/gui.stetic:347
+#: gtk-gui/gui.stetic:377 gtk-gui/gui.stetic:399 gtk-gui/gui.stetic:414
+#: gtk-gui/gui.stetic:425 gtk-gui/gui.stetic:439 gtk-gui/gui.stetic:467
+#: gtk-gui/gui.stetic:481 gtk-gui/gui.stetic:492 gtk-gui/gui.stetic:505
+#: gtk-gui/gui.stetic:518 gtk-gui/gui.stetic:542 gtk-gui/gui.stetic:550
+msgid "AutoSize"
+msgstr ""
+
+#: gtk-gui/gui.stetic:157 gtk-gui/gui.stetic:200 gtk-gui/gui.stetic:208
+#: gtk-gui/gui.stetic:257 gtk-gui/gui.stetic:277 gtk-gui/gui.stetic:328
+#: gtk-gui/gui.stetic:348 gtk-gui/gui.stetic:378 gtk-gui/gui.stetic:400
+#: gtk-gui/gui.stetic:415 gtk-gui/gui.stetic:426 gtk-gui/gui.stetic:440
+#: gtk-gui/gui.stetic:468 gtk-gui/gui.stetic:482 gtk-gui/gui.stetic:493
+#: gtk-gui/gui.stetic:506 gtk-gui/gui.stetic:519 gtk-gui/gui.stetic:543
+#: gtk-gui/gui.stetic:551 gtk-gui/gui.stetic:577
+msgid "Expand"
+msgstr ""
+
+#: gtk-gui/gui.stetic:158 gtk-gui/gui.stetic:201 gtk-gui/gui.stetic:209
+#: gtk-gui/gui.stetic:258 gtk-gui/gui.stetic:278 gtk-gui/gui.stetic:329
+#: gtk-gui/gui.stetic:349 gtk-gui/gui.stetic:379 gtk-gui/gui.stetic:401
+#: gtk-gui/gui.stetic:416 gtk-gui/gui.stetic:427 gtk-gui/gui.stetic:441
+#: gtk-gui/gui.stetic:469 gtk-gui/gui.stetic:483 gtk-gui/gui.stetic:494
+#: gtk-gui/gui.stetic:507 gtk-gui/gui.stetic:520 gtk-gui/gui.stetic:544
+#: gtk-gui/gui.stetic:552 gtk-gui/gui.stetic:578
+msgid "Fill"
+msgstr ""
+
+#: gtk-gui/gui.stetic:162 gtk-gui/gui.stetic:171 gtk-gui/gui.stetic:246
+#: gtk-gui/gui.stetic:317
+msgid "Gtk.HBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:162
+msgid "SenderHBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:164
+msgid "Homogeneous"
+msgstr ""
+
+#: gtk-gui/gui.stetic:167
+msgid "SenderVBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:171
+msgid "MsgEncHBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:175 gtk-gui/gui.stetic:262 gtk-gui/gui.stetic:333
+msgid "Gtk.Entry"
+msgstr ""
+
+#: gtk-gui/gui.stetic:175
+msgid "SenderEntry"
+msgstr ""
+
+#: gtk-gui/gui.stetic:177 gtk-gui/gui.stetic:190 gtk-gui/gui.stetic:215
+#: gtk-gui/gui.stetic:264 gtk-gui/gui.stetic:284 gtk-gui/gui.stetic:335
+#: gtk-gui/gui.stetic:385 gtk-gui/gui.stetic:568
+msgid "CanFocus"
+msgstr ""
+
+#: gtk-gui/gui.stetic:178 gtk-gui/gui.stetic:265 gtk-gui/gui.stetic:336
+msgid "IsEditable"
+msgstr ""
+
+#: gtk-gui/gui.stetic:179 gtk-gui/gui.stetic:266 gtk-gui/gui.stetic:337
+msgid "InvisibleChar"
+msgstr ""
+
+#: gtk-gui/gui.stetic:180
+msgid "KeyReleaseEvent"
+msgstr ""
+
+#: gtk-gui/gui.stetic:180
+msgid "OnSenderEntryKeyReleaseEvent"
+msgstr ""
+
+#: gtk-gui/gui.stetic:188 gtk-gui/gui.stetic:565
+msgid "Gtk.Button"
+msgstr ""
+
+#: gtk-gui/gui.stetic:188
+msgid "SendButton"
+msgstr ""
+
+#: gtk-gui/gui.stetic:192
+msgid "Icon"
+msgstr ""
+
+#: gtk-gui/gui.stetic:194
+msgid "UseUnderline"
+msgstr ""
+
+#: gtk-gui/gui.stetic:195 gtk-gui/gui.stetic:573
+msgid "Clicked"
+msgstr ""
+
+#: gtk-gui/gui.stetic:195
+msgid "OnSendButtonClicked"
+msgstr ""
+
+#: gtk-gui/gui.stetic:213 gtk-gui/gui.stetic:282
+msgid "Gtk.ScrolledWindow"
+msgstr ""
+
+#: gtk-gui/gui.stetic:213
+msgid "SenderScrWnd"
+msgstr ""
+
+#: gtk-gui/gui.stetic:216 gtk-gui/gui.stetic:220 gtk-gui/gui.stetic:285
+#: gtk-gui/gui.stetic:289
+msgid "ShadowType"
+msgstr ""
+
+#: gtk-gui/gui.stetic:218 gtk-gui/gui.stetic:287
+msgid "Gtk.Viewport"
+msgstr ""
+
+#: gtk-gui/gui.stetic:218
+msgid "GtkViewport"
+msgstr ""
+
+#: gtk-gui/gui.stetic:222 gtk-gui/gui.stetic:291
+msgid "Gtk.DrawingArea"
+msgstr ""
+
+#: gtk-gui/gui.stetic:222
+msgid "SenderTreeDrawer"
+msgstr ""
+
+#: gtk-gui/gui.stetic:224 gtk-gui/gui.stetic:293
+msgid "ExposeEvent"
+msgstr ""
+
+#: gtk-gui/gui.stetic:224
+msgid "OnSenderTreeDrawerExposeEvent"
+msgstr ""
+
+#: gtk-gui/gui.stetic:242
+msgid "ReceiverVBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:246
+msgid "DecHBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:250 gtk-gui/gui.stetic:321 gtk-gui/gui.stetic:392
+#: gtk-gui/gui.stetic:405 gtk-gui/gui.stetic:431 gtk-gui/gui.stetic:447
+#: gtk-gui/gui.stetic:460 gtk-gui/gui.stetic:473 gtk-gui/gui.stetic:498
+#: gtk-gui/gui.stetic:511 gtk-gui/gui.stetic:529
+msgid "Gtk.Label"
+msgstr ""
+
+#: gtk-gui/gui.stetic:250 gtk-gui/gui.stetic:431
+msgid "label3"
+msgstr ""
+
+#: gtk-gui/gui.stetic:252 gtk-gui/gui.stetic:323 gtk-gui/gui.stetic:394
+#: gtk-gui/gui.stetic:407 gtk-gui/gui.stetic:433 gtk-gui/gui.stetic:449
+#: gtk-gui/gui.stetic:462 gtk-gui/gui.stetic:475 gtk-gui/gui.stetic:500
+#: gtk-gui/gui.stetic:513 gtk-gui/gui.stetic:531
+msgid "LabelProp"
+msgstr ""
+
+#: gtk-gui/gui.stetic:262
+msgid "DecEntry"
+msgstr ""
+
+#: gtk-gui/gui.stetic:282
+msgid "ReceiverScrWnd"
+msgstr ""
+
+#: gtk-gui/gui.stetic:287
+msgid "GtkViewport1"
+msgstr ""
+
+#: gtk-gui/gui.stetic:291
+msgid "ReceiverTreeDrawer"
+msgstr ""
+
+#: gtk-gui/gui.stetic:293
+msgid "OnReceiverTreeDrawerExposeEvent"
+msgstr ""
+
+#: gtk-gui/gui.stetic:317
+msgid "BinHBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:321
+msgid "BinLabel"
+msgstr ""
+
+#: gtk-gui/gui.stetic:333
+msgid "BinEntry"
+msgstr ""
+
+#: gtk-gui/gui.stetic:355
+msgid "Gtk.Dialog"
+msgstr ""
+
+#: gtk-gui/gui.stetic:355
+msgid "GVisHuff.HSEAboutDialog"
+msgstr ""
+
+#: gtk-gui/gui.stetic:355
+msgid "524 348"
+msgstr ""
+
+#: gtk-gui/gui.stetic:358
+msgid "Resizable"
+msgstr ""
+
+#: gtk-gui/gui.stetic:359
+msgid "AllowGrow"
+msgstr ""
+
+#: gtk-gui/gui.stetic:360
+msgid "Buttons"
+msgstr ""
+
+#: gtk-gui/gui.stetic:361
+msgid "HelpButton"
+msgstr ""
+
+#: gtk-gui/gui.stetic:362
+msgid "VBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:363
+msgid "dialog1_VBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:365 gtk-gui/gui.stetic:561
+msgid "BorderWidth"
+msgstr ""
+
+#: gtk-gui/gui.stetic:367
+msgid "vbox2"
+msgstr ""
+
+#: gtk-gui/gui.stetic:371
+msgid "Gtk.Image"
+msgstr ""
+
+#: gtk-gui/gui.stetic:371
+msgid "image1"
+msgstr ""
+
+#: gtk-gui/gui.stetic:373
+msgid "Pixbuf"
+msgstr ""
+
+#: gtk-gui/gui.stetic:383
+msgid "Gtk.Notebook"
+msgstr ""
+
+#: gtk-gui/gui.stetic:383
+msgid "notebook1"
+msgstr ""
+
+#: gtk-gui/gui.stetic:386
+msgid "CurrentPage"
+msgstr ""
+
+#: gtk-gui/gui.stetic:388
+msgid "vbox3"
+msgstr ""
+
+#: gtk-gui/gui.stetic:392
+msgid "label5"
+msgstr ""
+
+#: gtk-gui/gui.stetic:395 gtk-gui/gui.stetic:408 gtk-gui/gui.stetic:434
+#: gtk-gui/gui.stetic:463 gtk-gui/gui.stetic:501 gtk-gui/gui.stetic:532
+msgid "UseMarkup"
+msgstr ""
+
+#: gtk-gui/gui.stetic:405
+msgid "label1"
+msgstr ""
+
+#: gtk-gui/gui.stetic:409 gtk-gui/gui.stetic:435 gtk-gui/gui.stetic:477
+#: gtk-gui/gui.stetic:514 gtk-gui/gui.stetic:533
+msgid "Wrap"
+msgstr ""
+
+#: gtk-gui/gui.stetic:410
+msgid "Selectable"
+msgstr ""
+
+#: gtk-gui/gui.stetic:420 gtk-gui/gui.stetic:487
+msgid "Gtk.HSeparator"
+msgstr ""
+
+#: gtk-gui/gui.stetic:420
+msgid "hseparator1"
+msgstr ""
+
+#: gtk-gui/gui.stetic:447
+msgid "label4"
+msgstr ""
+
+#: gtk-gui/gui.stetic:452 gtk-gui/gui.stetic:536
+msgid "type"
+msgstr ""
+
+#: gtk-gui/gui.stetic:456
+msgid "vbox4"
+msgstr ""
+
+#: gtk-gui/gui.stetic:460
+msgid "label2"
+msgstr ""
+
+#: gtk-gui/gui.stetic:473
+msgid "label7"
+msgstr ""
+
+#: gtk-gui/gui.stetic:487
+msgid "hseparator2"
+msgstr ""
+
+#: gtk-gui/gui.stetic:498
+msgid "label8"
+msgstr ""
+
+#: gtk-gui/gui.stetic:511
+msgid "label9"
+msgstr ""
+
+#: gtk-gui/gui.stetic:529
+msgid "label6"
+msgstr ""
+
+#: gtk-gui/gui.stetic:557
+msgid "ActionArea"
+msgstr ""
+
+#: gtk-gui/gui.stetic:558
+msgid "Gtk.HButtonBox"
+msgstr ""
+
+#: gtk-gui/gui.stetic:558
+msgid "dialog1_ActionArea"
+msgstr ""
+
+#: gtk-gui/gui.stetic:562
+msgid "Size"
+msgstr ""
+
+#: gtk-gui/gui.stetic:563
+msgid "LayoutStyle"
+msgstr ""
+
+#: gtk-gui/gui.stetic:565
+msgid "buttonOk"
+msgstr ""
+
+#: gtk-gui/gui.stetic:567
+msgid "CanDefault"
+msgstr ""
+
+#: gtk-gui/gui.stetic:569
+msgid "UseStock"
+msgstr ""
+
+#: gtk-gui/gui.stetic:572
+msgid "ResponseId"
+msgstr ""
+
+#: gtk-gui/gui.stetic:573
+msgid "OnButtonOkClicked"
+msgstr ""
+
+#: gtk-gui/gui.stetic:574
+msgid "label"
+msgstr ""
